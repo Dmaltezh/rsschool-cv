@@ -1,0 +1,8 @@
+- #**Dmitry Tsezhyk**
+- Tel. +375-29-58-34-263
+- I want to learn the basics of Front-end
+- Basics of C++, Python
+- [Example of code]( https://github.com/Dmaltezh/Task4_08_02_23.git )
+- No work experience of Junior Dev
+- Technical education
+- English level A1
