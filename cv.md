@@ -1,4 +1,4 @@
-- **Dmitry Tsezhyk**
+- #**Dmitry Tsezhyk**
 - Tel. +375-29-58-34-263
 - I want to learn the basics of Front-end
 - Basics of C++, Python
