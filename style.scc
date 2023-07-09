@@ -1,14 +1,39 @@
 body {
-    color: black;
-    background-color: lightblue;
+  font-family: "Roboto", sans-serif;
+  color: black;
+  font-size: 14px;
+}
+ul {
+	list-style-type: disc;
+}
+h1,
+h2,
+h3,
+h4, 
+h5, 
+h6 {
+  font-weight: 700;
 }
 
-h4 {
-    color: white;
-    text-align: center;
+hr {
+	width="90%" 
+    size="3" 
+    align="left";
+	}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
 }
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 p {
-    font-family: verdana;
-    font-size: 20px;
+    color: black;
+    text-align: center;
 }
